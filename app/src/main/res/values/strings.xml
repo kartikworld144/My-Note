@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Note</string>
+
+
+    <string name="your_name">Title (Youtube)</string>
+    <string name="your_number">Link (Youtube ID)</string>
+    <string name="description">Description (Optional)</string>
+    <string name="delete">মুছে ফেলুন</string>
+    <string name="add">যোগ করুন</string>
+    <string name="des">বিবরণ বা বর্ণনা</string>
+    <string name="title">শিরোনাম লিখুন</string>
+
+</resources>
